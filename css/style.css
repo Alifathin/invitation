@@ -470,7 +470,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .couple-main {
-    width: 250px;
+    width: 400px;
   }
 }
 #fh5co-header h1 {
@@ -493,7 +493,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #overlay {
   background: #ffffff;
-  background-image: url("../images/overlay.JPG");
+  background-image: url("../images/ponpes.jpg");
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -514,7 +514,8 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 80px;
 }
 #overlay .content .couple-main {
-  width: 200px;
+  width: 300px;
+  margin-bottom: 125px;
 }
 #overlay .content h1 {
   font-size: 48px;
@@ -1159,7 +1160,7 @@ form label {
 }
 
 .fh5co-section-gray {
-  background: rgba(0, 0, 0, 0.04);
+  background: rgba(255, 255, 255, 1);
 }
 
 .couple-wrap {
@@ -1491,7 +1492,7 @@ form label {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(255, 255, 255, 0.8s);
 }
 #fh5co-started .fh5co-heading h2 {
   color: #fff;
