@@ -19,6 +19,30 @@ body {
   background: #fff;
 }
 
+#background-particle {
+  content: "";
+  position: fixed;
+  background: #040404 url("../images/BLUE.jpg") center no-repeat;
+  background-size: cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  z-index: -1;
+}
+
+/* ----- PARTICLE ----- */
+canvas{ display: block; vertical-align: bottom; } 
+/* ---- particles.js container ---- */ 
+#particles-js{ position:fixed; z-index:-10; top:0; left:0; width: 100%; height: 100%; background-color: transparent; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; } 
+#particles-js2{ position:fixed; z-index:-10; top:0; left:0; width: 100%; height: 100%; background-color: transparent; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; } 
+
+/* ---- stats.js ---- */ 
+.count-particles{ background: #000022; position: absolute; top: 48px; left: 0; width: 80px; color: #13E8E9; font-size: .8em; text-align: left; text-indent: 4px; line-height: 14px; padding-bottom: 2px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; } 
+.js-count-particles{ font-size: 1.1em; } #stats, .count-particles{ -webkit-user-select: none; margin-top: 5px; margin-left: 5px; } #stats{ border-radius: 3px 3px 0 0; overflow: hidden; } .count-particles{ border-radius: 0 0 3px 3px; }
+/* ----- PARTICLE ----- */
+
+
 #page {
   position: relative;
   overflow-x: hidden;
@@ -458,7 +482,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-header {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url("../images/background/repeat-background/nice_snow.png");
+/*  background-image: url("../images/BLUE.jpg");*/
   background-repeat: repeat;
   /*background-size: cover;*/
 }
@@ -466,11 +490,11 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 10px;
 }
 #fh5co-header .couple-main {
-  width: 400px;
+  width: 90%;
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .couple-main {
-    width: 400px;
+    width: 90%;
   }
 }
 #fh5co-header h1 {
@@ -493,7 +517,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #overlay {
   background: #ffffff;
-  background-image: url("../images/ponpes.jpg");
+  background-image: url("../images/BLUE.jpg");
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -531,7 +555,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #overlay .content .fh5co-heading {
-  margin-bottom: 10px;
+  margin-bottom: 70px;
 }
 #overlay .content p {
   color: #ffffff;
@@ -2095,7 +2119,7 @@ form label {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 30px;
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAhUlEQVRIie2U0QmAMAxEE3EMcRIdQAdxUXGSDPL8ESmlasUWKfR9hssduY+I/AWwAWsqXWgRgK+6xhPPgLkLPODpDJhcT/UCTES6iAPvMFXtrwIeK4lBVU/f5k6YguwBbWjonviGUMXlV1QDakCpAcDw1ggYQ/Ps79q/YBER+2J+eFTi2QH5gHBCJs9nEQAAAABJRU5ErkJggg==);
+  background-image: url('../gifs/calendar.gif');
 }
 
 .option-btn.open:after {
