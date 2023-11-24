@@ -34,16 +34,11 @@
 - RSVP with issue API
 - Music from youtube API
 
-<!-- The wedding -->
-## Maulidan Nashuha <img src="images/readme/man.png" width="30px">
-
 
 
 Reach me around the web :
 
-<a href="https://www.instagram.com/afh_grafics/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+<a href="https://www.instagram.com/afh_grafics/" target="_blank">Follow Us</a>
 <!--<a href="https://twitter.com/ngodingsolusi" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
@@ -57,27 +52,6 @@ Reach me around the web :
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-## Rayhan Yulanda <img src="images/readme/favicon.png" width="30px">
-
-
-
-Reach me around the web :
-
-<a href="https://linkedin.com/in/rayhanyulanda">
-  <img alt="Rehan's Linkdein" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/linkedin.png" />
-</a>
-<a target="_blank" href="https://github.com/rayhanyulanda">
-<img alt="Rehan's Github" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/github.png" />
-</a>
-<a target="_blank" href="https://www.facebook.com/rayhanyulanda/">
-<img alt="Rehan's Facebook" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/facebook.png" />
-</a>
-<a target="_blank" href="https://medium.com/@rayhanyulanda">
-<img alt="Rehan's Medium" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/medium.png" />
-</a>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Our big thanks to :
 - [Flaticon](https://flaticon.com) - for the assets
