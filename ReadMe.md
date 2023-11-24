@@ -9,21 +9,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">
-    <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
+  <a href="https://alifathin.github.io/design/">
+    <img src="images/readme/favicon.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h1 align="center">The Wedding</h1>
+  <h1 align="center">Wisuda Kelulusan</h1>
 
   <p align="center">
-    <strong>Rehan & Maulidan</strong>
+    <strong>WISUDA KELULUSAN PONPES DALWA KE-38</strong>
     <br />
-    <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
+    <a href="https://alifathin.github.io/design/">Explore the Invitation ! »</a>
     <br />
-    <br />
-    <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
-    ·
-    <a href="https://github.com/maulidannashuha">Maulidan Nashuha</a>
   </p>
 </div>
 
@@ -68,7 +64,7 @@ Reach me around the web :
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Rayhan Yulanda <img src="images/readme/woman.png" width="30px">
+## Rayhan Yulanda <img src="images/readme/favicon.png" width="30px">
 
 
 
