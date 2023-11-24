@@ -18,7 +18,7 @@
   <p align="center">
     <strong>WISUDA KELULUSAN PONPES DALWA KE-38</strong>
     <br />
-    <a href="https://alifathin.github.io/design/">Explore the Invitation ! »</a>
+    <a href="https://alifathin.github.io/invitation/">Explore the Invitation ! »</a>
     <br />
   </p>
 </div>
